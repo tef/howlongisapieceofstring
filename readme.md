@@ -33,7 +33,7 @@ For those who are impatient, here are some faulty, broken assumptions about text
 
 ## A brief history of language on computers
 
-Let's ignore EDIBIC, because if you're having to use it, you are already past salvition. ASCII seems a good place to start, or let's hammer most of the latin alphabet, and mash some punctuation into one hundred and twenty eight numbered slots. 
+Let's ignore EBCDIC, because if you're having to use it, you are already past salvition. ASCII seems a good place to start, or let's hammer most of the latin alphabet, and mash some punctuation into one hundred and twenty eight numbered slots. 
 
 ASCII is a mixture of lesser known control characters, upper and lower A-Z, numbers, and punctuation. It also found the time to invent punctuation, like the backslash, inbetween turning all dashes and quotes into homogenous blobs.
 
